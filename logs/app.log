@@ -1,0 +1,1489 @@
+2025-05-01 18:17:13,405 - ERROR - Failed to load config: [Errno 2] No such file or directory: 'configs/config.yaml'
+2025-05-01 18:18:05,378 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:18:05,379 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:18:32,747 - INFO - Embedder initialized
+2025-05-01 18:18:33,223 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-05-01 18:18:34,671 - INFO - VectorDB initialized
+2025-05-01 18:18:34,848 - INFO - Database initialized
+2025-05-01 18:19:04,102 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:19:04,102 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:19:06,899 - INFO - Embedder initialized
+2025-05-01 18:19:06,967 - INFO - VectorDB initialized
+2025-05-01 18:19:06,979 - INFO - Database initialized
+2025-05-01 18:19:06,995 - INFO - Added document to database: 6LoWPAN-3.pdf
+2025-05-01 18:19:07,222 - INFO - Split text into 35 chunks for 6LoWPAN-3.pdf
+2025-05-01 18:19:13,030 - INFO - Added 35 chunks to VectorDB for 6LoWPAN-3.pdf
+2025-05-01 18:19:13,031 - INFO - Processed file: 6LoWPAN-3.pdf
+2025-05-01 18:19:27,002 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:19:27,004 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:19:30,197 - INFO - Embedder initialized
+2025-05-01 18:19:30,263 - INFO - VectorDB initialized
+2025-05-01 18:19:30,268 - INFO - Database initialized
+2025-05-01 18:19:30,282 - INFO - Added document to database: 6LoWPAN-3.pdf
+2025-05-01 18:19:30,514 - INFO - Split text into 35 chunks for 6LoWPAN-3.pdf
+2025-05-01 18:19:31,718 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_0
+2025-05-01 18:19:31,719 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_1
+2025-05-01 18:19:31,720 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_2
+2025-05-01 18:19:31,721 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_3
+2025-05-01 18:19:31,722 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_4
+2025-05-01 18:19:31,723 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_5
+2025-05-01 18:19:31,723 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_6
+2025-05-01 18:19:31,724 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_7
+2025-05-01 18:19:31,724 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_8
+2025-05-01 18:19:31,725 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_9
+2025-05-01 18:19:31,725 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_10
+2025-05-01 18:19:31,726 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_11
+2025-05-01 18:19:31,726 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_12
+2025-05-01 18:19:31,727 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_13
+2025-05-01 18:19:31,727 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_14
+2025-05-01 18:19:31,728 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_15
+2025-05-01 18:19:31,728 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_16
+2025-05-01 18:19:31,729 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_17
+2025-05-01 18:19:31,729 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_18
+2025-05-01 18:19:31,730 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_19
+2025-05-01 18:19:31,730 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_20
+2025-05-01 18:19:31,731 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_21
+2025-05-01 18:19:31,731 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_22
+2025-05-01 18:19:31,731 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_23
+2025-05-01 18:19:31,733 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_24
+2025-05-01 18:19:31,734 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_25
+2025-05-01 18:19:31,734 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_26
+2025-05-01 18:19:31,735 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_27
+2025-05-01 18:19:31,736 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_28
+2025-05-01 18:19:31,736 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_29
+2025-05-01 18:19:31,737 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_30
+2025-05-01 18:19:31,737 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_31
+2025-05-01 18:19:31,738 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_32
+2025-05-01 18:19:31,739 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_33
+2025-05-01 18:19:31,739 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_34
+2025-05-01 18:19:31,739 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_0
+2025-05-01 18:19:31,739 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_1
+2025-05-01 18:19:31,739 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_2
+2025-05-01 18:19:31,740 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_3
+2025-05-01 18:19:31,740 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_4
+2025-05-01 18:19:31,740 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_5
+2025-05-01 18:19:31,740 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_6
+2025-05-01 18:19:31,740 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_7
+2025-05-01 18:19:31,740 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_8
+2025-05-01 18:19:31,740 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_9
+2025-05-01 18:19:31,740 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_10
+2025-05-01 18:19:31,740 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_11
+2025-05-01 18:19:31,740 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_12
+2025-05-01 18:19:31,740 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_13
+2025-05-01 18:19:31,741 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_14
+2025-05-01 18:19:31,741 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_15
+2025-05-01 18:19:31,741 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_16
+2025-05-01 18:19:31,741 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_17
+2025-05-01 18:19:31,741 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_18
+2025-05-01 18:19:31,741 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_19
+2025-05-01 18:19:31,741 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_20
+2025-05-01 18:19:31,741 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_21
+2025-05-01 18:19:31,741 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_22
+2025-05-01 18:19:31,741 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_23
+2025-05-01 18:19:31,742 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_24
+2025-05-01 18:19:31,742 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_25
+2025-05-01 18:19:31,742 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_26
+2025-05-01 18:19:31,742 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_27
+2025-05-01 18:19:31,742 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_28
+2025-05-01 18:19:31,742 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_29
+2025-05-01 18:19:31,742 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_30
+2025-05-01 18:19:31,742 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_31
+2025-05-01 18:19:31,742 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_32
+2025-05-01 18:19:31,743 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_33
+2025-05-01 18:19:31,743 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_34
+2025-05-01 18:19:31,749 - INFO - Added 35 chunks to VectorDB for 6LoWPAN-3.pdf
+2025-05-01 18:19:31,749 - INFO - Processed file: 6LoWPAN-3.pdf
+2025-05-01 18:19:35,900 - ERROR - Error querying Mistral: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /v1/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000125EFC66640>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-01 18:19:35,900 - ERROR - Error answering query: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /v1/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000125EFC66640>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-01 18:24:05,706 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:24:05,706 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:24:08,288 - INFO - Embedder initialized
+2025-05-01 18:24:08,347 - INFO - VectorDB initialized
+2025-05-01 18:24:08,352 - INFO - Database initialized
+2025-05-01 18:24:08,365 - INFO - Added document to database: 6LoWPAN-3.pdf
+2025-05-01 18:24:08,621 - INFO - Split text into 35 chunks for 6LoWPAN-3.pdf
+2025-05-01 18:24:09,861 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_0
+2025-05-01 18:24:09,862 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_1
+2025-05-01 18:24:09,862 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_2
+2025-05-01 18:24:09,863 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_3
+2025-05-01 18:24:09,863 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_4
+2025-05-01 18:24:09,864 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_5
+2025-05-01 18:24:09,864 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_6
+2025-05-01 18:24:09,865 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_7
+2025-05-01 18:24:09,866 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_8
+2025-05-01 18:24:09,866 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_9
+2025-05-01 18:24:09,867 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_10
+2025-05-01 18:24:09,867 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_11
+2025-05-01 18:24:09,867 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_12
+2025-05-01 18:24:09,868 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_13
+2025-05-01 18:24:09,868 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_14
+2025-05-01 18:24:09,869 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_15
+2025-05-01 18:24:09,869 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_16
+2025-05-01 18:24:09,869 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_17
+2025-05-01 18:24:09,871 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_18
+2025-05-01 18:24:09,871 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_19
+2025-05-01 18:24:09,872 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_20
+2025-05-01 18:24:09,872 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_21
+2025-05-01 18:24:09,873 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_22
+2025-05-01 18:24:09,873 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_23
+2025-05-01 18:24:09,874 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_24
+2025-05-01 18:24:09,874 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_25
+2025-05-01 18:24:09,875 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_26
+2025-05-01 18:24:09,875 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_27
+2025-05-01 18:24:09,876 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_28
+2025-05-01 18:24:09,876 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_29
+2025-05-01 18:24:09,877 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_30
+2025-05-01 18:24:09,877 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_31
+2025-05-01 18:24:09,877 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_32
+2025-05-01 18:24:09,878 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_33
+2025-05-01 18:24:09,878 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_34
+2025-05-01 18:24:09,879 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_0
+2025-05-01 18:24:09,879 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_1
+2025-05-01 18:24:09,879 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_2
+2025-05-01 18:24:09,879 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_3
+2025-05-01 18:24:09,879 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_4
+2025-05-01 18:24:09,879 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_5
+2025-05-01 18:24:09,879 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_6
+2025-05-01 18:24:09,879 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_7
+2025-05-01 18:24:09,879 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_8
+2025-05-01 18:24:09,880 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_9
+2025-05-01 18:24:09,880 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_10
+2025-05-01 18:24:09,880 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_11
+2025-05-01 18:24:09,880 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_12
+2025-05-01 18:24:09,880 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_13
+2025-05-01 18:24:09,880 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_14
+2025-05-01 18:24:09,880 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_15
+2025-05-01 18:24:09,880 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_16
+2025-05-01 18:24:09,880 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_17
+2025-05-01 18:24:09,880 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_18
+2025-05-01 18:24:09,880 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_19
+2025-05-01 18:24:09,881 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_20
+2025-05-01 18:24:09,881 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_21
+2025-05-01 18:24:09,881 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_22
+2025-05-01 18:24:09,881 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_23
+2025-05-01 18:24:09,881 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_24
+2025-05-01 18:24:09,881 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_25
+2025-05-01 18:24:09,881 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_26
+2025-05-01 18:24:09,881 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_27
+2025-05-01 18:24:09,881 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_28
+2025-05-01 18:24:09,881 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_29
+2025-05-01 18:24:09,881 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_30
+2025-05-01 18:24:09,881 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_31
+2025-05-01 18:24:09,882 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_32
+2025-05-01 18:24:09,882 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_33
+2025-05-01 18:24:09,882 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_34
+2025-05-01 18:24:09,888 - INFO - Added 35 chunks to VectorDB for 6LoWPAN-3.pdf
+2025-05-01 18:24:09,888 - INFO - Processed file: 6LoWPAN-3.pdf
+2025-05-01 18:24:20,237 - INFO - Answered query: summarize the document i just gave you
+2025-05-01 18:24:49,270 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:24:49,270 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:24:51,809 - INFO - Embedder initialized
+2025-05-01 18:24:51,874 - INFO - VectorDB initialized
+2025-05-01 18:24:51,878 - INFO - Database initialized
+2025-05-01 18:24:51,902 - INFO - Added document to database: 6LoWPAN-3.pdf
+2025-05-01 18:24:52,168 - INFO - Split text into 35 chunks for 6LoWPAN-3.pdf
+2025-05-01 18:24:53,532 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_0
+2025-05-01 18:24:53,533 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_1
+2025-05-01 18:24:53,534 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_2
+2025-05-01 18:24:53,534 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_3
+2025-05-01 18:24:53,535 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_4
+2025-05-01 18:24:53,535 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_5
+2025-05-01 18:24:53,536 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_6
+2025-05-01 18:24:53,536 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_7
+2025-05-01 18:24:53,537 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_8
+2025-05-01 18:24:53,537 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_9
+2025-05-01 18:24:53,538 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_10
+2025-05-01 18:24:53,538 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_11
+2025-05-01 18:24:53,538 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_12
+2025-05-01 18:24:53,539 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_13
+2025-05-01 18:24:53,539 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_14
+2025-05-01 18:24:53,540 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_15
+2025-05-01 18:24:53,540 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_16
+2025-05-01 18:24:53,541 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_17
+2025-05-01 18:24:53,541 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_18
+2025-05-01 18:24:53,542 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_19
+2025-05-01 18:24:53,543 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_20
+2025-05-01 18:24:53,543 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_21
+2025-05-01 18:24:53,543 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_22
+2025-05-01 18:24:53,544 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_23
+2025-05-01 18:24:53,544 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_24
+2025-05-01 18:24:53,545 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_25
+2025-05-01 18:24:53,545 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_26
+2025-05-01 18:24:53,546 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_27
+2025-05-01 18:24:53,546 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_28
+2025-05-01 18:24:53,548 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_29
+2025-05-01 18:24:53,548 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_30
+2025-05-01 18:24:53,548 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_31
+2025-05-01 18:24:53,549 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_32
+2025-05-01 18:24:53,549 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_33
+2025-05-01 18:24:53,549 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_34
+2025-05-01 18:24:53,550 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_0
+2025-05-01 18:24:53,550 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_1
+2025-05-01 18:24:53,550 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_2
+2025-05-01 18:24:53,550 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_3
+2025-05-01 18:24:53,550 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_4
+2025-05-01 18:24:53,550 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_5
+2025-05-01 18:24:53,550 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_6
+2025-05-01 18:24:53,550 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_7
+2025-05-01 18:24:53,550 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_8
+2025-05-01 18:24:53,551 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_9
+2025-05-01 18:24:53,551 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_10
+2025-05-01 18:24:53,551 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_11
+2025-05-01 18:24:53,551 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_12
+2025-05-01 18:24:53,551 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_13
+2025-05-01 18:24:53,551 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_14
+2025-05-01 18:24:53,551 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_15
+2025-05-01 18:24:53,551 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_16
+2025-05-01 18:24:53,551 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_17
+2025-05-01 18:24:53,551 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_18
+2025-05-01 18:24:53,552 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_19
+2025-05-01 18:24:53,552 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_20
+2025-05-01 18:24:53,552 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_21
+2025-05-01 18:24:53,552 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_22
+2025-05-01 18:24:53,552 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_23
+2025-05-01 18:24:53,552 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_24
+2025-05-01 18:24:53,552 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_25
+2025-05-01 18:24:53,552 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_26
+2025-05-01 18:24:53,552 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_27
+2025-05-01 18:24:53,552 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_28
+2025-05-01 18:24:53,552 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_29
+2025-05-01 18:24:53,553 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_30
+2025-05-01 18:24:53,553 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_31
+2025-05-01 18:24:53,553 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_32
+2025-05-01 18:24:53,553 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_33
+2025-05-01 18:24:53,553 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_34
+2025-05-01 18:24:53,559 - INFO - Added 35 chunks to VectorDB for 6LoWPAN-3.pdf
+2025-05-01 18:24:53,559 - INFO - Processed file: 6LoWPAN-3.pdf
+2025-05-01 18:24:53,574 - INFO - Added document to database: IOT-19.pdf
+2025-05-01 18:24:57,618 - INFO - Split text into 37 chunks for IOT-19.pdf
+2025-05-01 18:24:58,866 - INFO - Added 37 chunks to VectorDB for IOT-19.pdf
+2025-05-01 18:24:58,866 - INFO - Processed file: IOT-19.pdf
+2025-05-01 18:24:58,877 - INFO - Added document to database: IOT-20.pdf
+2025-05-01 18:25:00,093 - INFO - Split text into 47 chunks for IOT-20.pdf
+2025-05-01 18:25:01,671 - INFO - Added 47 chunks to VectorDB for IOT-20.pdf
+2025-05-01 18:25:01,671 - INFO - Processed file: IOT-20.pdf
+2025-05-01 18:25:13,334 - INFO - Answered query: summarize the document i just gave you
+2025-05-01 18:25:21,036 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:25:21,036 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:25:23,584 - INFO - Embedder initialized
+2025-05-01 18:25:23,645 - INFO - VectorDB initialized
+2025-05-01 18:25:23,649 - INFO - Database initialized
+2025-05-01 18:25:23,665 - INFO - Added document to database: 6LoWPAN-3.pdf
+2025-05-01 18:25:23,921 - INFO - Split text into 35 chunks for 6LoWPAN-3.pdf
+2025-05-01 18:25:25,516 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_0
+2025-05-01 18:25:25,517 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_1
+2025-05-01 18:25:25,517 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_2
+2025-05-01 18:25:25,518 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_3
+2025-05-01 18:25:25,518 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_4
+2025-05-01 18:25:25,519 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_5
+2025-05-01 18:25:25,521 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_6
+2025-05-01 18:25:25,522 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_7
+2025-05-01 18:25:25,522 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_8
+2025-05-01 18:25:25,523 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_9
+2025-05-01 18:25:25,523 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_10
+2025-05-01 18:25:25,524 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_11
+2025-05-01 18:25:25,524 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_12
+2025-05-01 18:25:25,525 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_13
+2025-05-01 18:25:25,525 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_14
+2025-05-01 18:25:25,525 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_15
+2025-05-01 18:25:25,526 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_16
+2025-05-01 18:25:25,527 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_17
+2025-05-01 18:25:25,527 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_18
+2025-05-01 18:25:25,527 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_19
+2025-05-01 18:25:25,528 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_20
+2025-05-01 18:25:25,528 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_21
+2025-05-01 18:25:25,529 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_22
+2025-05-01 18:25:25,529 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_23
+2025-05-01 18:25:25,529 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_24
+2025-05-01 18:25:25,530 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_25
+2025-05-01 18:25:25,530 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_26
+2025-05-01 18:25:25,531 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_27
+2025-05-01 18:25:25,531 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_28
+2025-05-01 18:25:25,532 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_29
+2025-05-01 18:25:25,532 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_30
+2025-05-01 18:25:25,533 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_31
+2025-05-01 18:25:25,534 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_32
+2025-05-01 18:25:25,534 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_33
+2025-05-01 18:25:25,535 - WARNING - Insert of existing embedding ID: 6LoWPAN-3.pdf_34
+2025-05-01 18:25:25,535 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_0
+2025-05-01 18:25:25,535 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_1
+2025-05-01 18:25:25,535 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_2
+2025-05-01 18:25:25,536 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_3
+2025-05-01 18:25:25,536 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_4
+2025-05-01 18:25:25,536 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_5
+2025-05-01 18:25:25,536 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_6
+2025-05-01 18:25:25,536 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_7
+2025-05-01 18:25:25,536 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_8
+2025-05-01 18:25:25,536 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_9
+2025-05-01 18:25:25,536 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_10
+2025-05-01 18:25:25,536 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_11
+2025-05-01 18:25:25,536 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_12
+2025-05-01 18:25:25,537 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_13
+2025-05-01 18:25:25,537 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_14
+2025-05-01 18:25:25,537 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_15
+2025-05-01 18:25:25,537 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_16
+2025-05-01 18:25:25,537 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_17
+2025-05-01 18:25:25,537 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_18
+2025-05-01 18:25:25,537 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_19
+2025-05-01 18:25:25,537 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_20
+2025-05-01 18:25:25,537 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_21
+2025-05-01 18:25:25,537 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_22
+2025-05-01 18:25:25,537 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_23
+2025-05-01 18:25:25,538 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_24
+2025-05-01 18:25:25,538 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_25
+2025-05-01 18:25:25,538 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_26
+2025-05-01 18:25:25,538 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_27
+2025-05-01 18:25:25,538 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_28
+2025-05-01 18:25:25,538 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_29
+2025-05-01 18:25:25,539 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_30
+2025-05-01 18:25:25,539 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_31
+2025-05-01 18:25:25,539 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_32
+2025-05-01 18:25:25,539 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_33
+2025-05-01 18:25:25,539 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_34
+2025-05-01 18:25:25,545 - INFO - Added 35 chunks to VectorDB for 6LoWPAN-3.pdf
+2025-05-01 18:25:25,545 - INFO - Processed file: 6LoWPAN-3.pdf
+2025-05-01 18:25:25,561 - INFO - Added document to database: IOT-19.pdf
+2025-05-01 18:25:29,624 - INFO - Split text into 37 chunks for IOT-19.pdf
+2025-05-01 18:25:31,053 - WARNING - Insert of existing embedding ID: IOT-19.pdf_0
+2025-05-01 18:25:31,055 - WARNING - Insert of existing embedding ID: IOT-19.pdf_1
+2025-05-01 18:25:31,055 - WARNING - Insert of existing embedding ID: IOT-19.pdf_2
+2025-05-01 18:25:31,056 - WARNING - Insert of existing embedding ID: IOT-19.pdf_3
+2025-05-01 18:25:31,056 - WARNING - Insert of existing embedding ID: IOT-19.pdf_4
+2025-05-01 18:25:31,057 - WARNING - Insert of existing embedding ID: IOT-19.pdf_5
+2025-05-01 18:25:31,057 - WARNING - Insert of existing embedding ID: IOT-19.pdf_6
+2025-05-01 18:25:31,059 - WARNING - Insert of existing embedding ID: IOT-19.pdf_7
+2025-05-01 18:25:31,059 - WARNING - Insert of existing embedding ID: IOT-19.pdf_8
+2025-05-01 18:25:31,059 - WARNING - Insert of existing embedding ID: IOT-19.pdf_9
+2025-05-01 18:25:31,060 - WARNING - Insert of existing embedding ID: IOT-19.pdf_10
+2025-05-01 18:25:31,060 - WARNING - Insert of existing embedding ID: IOT-19.pdf_11
+2025-05-01 18:25:31,060 - WARNING - Insert of existing embedding ID: IOT-19.pdf_12
+2025-05-01 18:25:31,061 - WARNING - Insert of existing embedding ID: IOT-19.pdf_13
+2025-05-01 18:25:31,061 - WARNING - Insert of existing embedding ID: IOT-19.pdf_14
+2025-05-01 18:25:31,061 - WARNING - Insert of existing embedding ID: IOT-19.pdf_15
+2025-05-01 18:25:31,062 - WARNING - Insert of existing embedding ID: IOT-19.pdf_16
+2025-05-01 18:25:31,062 - WARNING - Insert of existing embedding ID: IOT-19.pdf_17
+2025-05-01 18:25:31,062 - WARNING - Insert of existing embedding ID: IOT-19.pdf_18
+2025-05-01 18:25:31,063 - WARNING - Insert of existing embedding ID: IOT-19.pdf_19
+2025-05-01 18:25:31,063 - WARNING - Insert of existing embedding ID: IOT-19.pdf_20
+2025-05-01 18:25:31,064 - WARNING - Insert of existing embedding ID: IOT-19.pdf_21
+2025-05-01 18:25:31,064 - WARNING - Insert of existing embedding ID: IOT-19.pdf_22
+2025-05-01 18:25:31,064 - WARNING - Insert of existing embedding ID: IOT-19.pdf_23
+2025-05-01 18:25:31,065 - WARNING - Insert of existing embedding ID: IOT-19.pdf_24
+2025-05-01 18:25:31,065 - WARNING - Insert of existing embedding ID: IOT-19.pdf_25
+2025-05-01 18:25:31,065 - WARNING - Insert of existing embedding ID: IOT-19.pdf_26
+2025-05-01 18:25:31,066 - WARNING - Insert of existing embedding ID: IOT-19.pdf_27
+2025-05-01 18:25:31,066 - WARNING - Insert of existing embedding ID: IOT-19.pdf_28
+2025-05-01 18:25:31,066 - WARNING - Insert of existing embedding ID: IOT-19.pdf_29
+2025-05-01 18:25:31,067 - WARNING - Insert of existing embedding ID: IOT-19.pdf_30
+2025-05-01 18:25:31,067 - WARNING - Insert of existing embedding ID: IOT-19.pdf_31
+2025-05-01 18:25:31,067 - WARNING - Insert of existing embedding ID: IOT-19.pdf_32
+2025-05-01 18:25:31,067 - WARNING - Insert of existing embedding ID: IOT-19.pdf_33
+2025-05-01 18:25:31,067 - WARNING - Insert of existing embedding ID: IOT-19.pdf_34
+2025-05-01 18:25:31,069 - WARNING - Insert of existing embedding ID: IOT-19.pdf_35
+2025-05-01 18:25:31,069 - WARNING - Insert of existing embedding ID: IOT-19.pdf_36
+2025-05-01 18:25:31,069 - WARNING - Add of existing embedding ID: IOT-19.pdf_0
+2025-05-01 18:25:31,069 - WARNING - Add of existing embedding ID: IOT-19.pdf_1
+2025-05-01 18:25:31,069 - WARNING - Add of existing embedding ID: IOT-19.pdf_2
+2025-05-01 18:25:31,069 - WARNING - Add of existing embedding ID: IOT-19.pdf_3
+2025-05-01 18:25:31,069 - WARNING - Add of existing embedding ID: IOT-19.pdf_4
+2025-05-01 18:25:31,069 - WARNING - Add of existing embedding ID: IOT-19.pdf_5
+2025-05-01 18:25:31,070 - WARNING - Add of existing embedding ID: IOT-19.pdf_6
+2025-05-01 18:25:31,070 - WARNING - Add of existing embedding ID: IOT-19.pdf_7
+2025-05-01 18:25:31,070 - WARNING - Add of existing embedding ID: IOT-19.pdf_8
+2025-05-01 18:25:31,070 - WARNING - Add of existing embedding ID: IOT-19.pdf_9
+2025-05-01 18:25:31,070 - WARNING - Add of existing embedding ID: IOT-19.pdf_10
+2025-05-01 18:25:31,070 - WARNING - Add of existing embedding ID: IOT-19.pdf_11
+2025-05-01 18:25:31,070 - WARNING - Add of existing embedding ID: IOT-19.pdf_12
+2025-05-01 18:25:31,070 - WARNING - Add of existing embedding ID: IOT-19.pdf_13
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_14
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_15
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_16
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_17
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_18
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_19
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_20
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_21
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_22
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_23
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_24
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_25
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_26
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_27
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_28
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_29
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_30
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_31
+2025-05-01 18:25:31,071 - WARNING - Add of existing embedding ID: IOT-19.pdf_32
+2025-05-01 18:25:31,072 - WARNING - Add of existing embedding ID: IOT-19.pdf_33
+2025-05-01 18:25:31,072 - WARNING - Add of existing embedding ID: IOT-19.pdf_34
+2025-05-01 18:25:31,072 - WARNING - Add of existing embedding ID: IOT-19.pdf_35
+2025-05-01 18:25:31,072 - WARNING - Add of existing embedding ID: IOT-19.pdf_36
+2025-05-01 18:25:31,078 - INFO - Added 37 chunks to VectorDB for IOT-19.pdf
+2025-05-01 18:25:31,078 - INFO - Processed file: IOT-19.pdf
+2025-05-01 18:25:31,088 - INFO - Added document to database: IOT-20.pdf
+2025-05-01 18:25:32,239 - INFO - Split text into 47 chunks for IOT-20.pdf
+2025-05-01 18:25:33,694 - WARNING - Insert of existing embedding ID: IOT-20.pdf_0
+2025-05-01 18:25:33,694 - WARNING - Insert of existing embedding ID: IOT-20.pdf_1
+2025-05-01 18:25:33,695 - WARNING - Insert of existing embedding ID: IOT-20.pdf_2
+2025-05-01 18:25:33,695 - WARNING - Insert of existing embedding ID: IOT-20.pdf_3
+2025-05-01 18:25:33,696 - WARNING - Insert of existing embedding ID: IOT-20.pdf_4
+2025-05-01 18:25:33,696 - WARNING - Insert of existing embedding ID: IOT-20.pdf_5
+2025-05-01 18:25:33,697 - WARNING - Insert of existing embedding ID: IOT-20.pdf_6
+2025-05-01 18:25:33,697 - WARNING - Insert of existing embedding ID: IOT-20.pdf_7
+2025-05-01 18:25:33,697 - WARNING - Insert of existing embedding ID: IOT-20.pdf_8
+2025-05-01 18:25:33,699 - WARNING - Insert of existing embedding ID: IOT-20.pdf_9
+2025-05-01 18:25:33,699 - WARNING - Insert of existing embedding ID: IOT-20.pdf_10
+2025-05-01 18:25:33,700 - WARNING - Insert of existing embedding ID: IOT-20.pdf_11
+2025-05-01 18:25:33,700 - WARNING - Insert of existing embedding ID: IOT-20.pdf_12
+2025-05-01 18:25:33,701 - WARNING - Insert of existing embedding ID: IOT-20.pdf_13
+2025-05-01 18:25:33,701 - WARNING - Insert of existing embedding ID: IOT-20.pdf_14
+2025-05-01 18:25:33,702 - WARNING - Insert of existing embedding ID: IOT-20.pdf_15
+2025-05-01 18:25:33,702 - WARNING - Insert of existing embedding ID: IOT-20.pdf_16
+2025-05-01 18:25:33,703 - WARNING - Insert of existing embedding ID: IOT-20.pdf_17
+2025-05-01 18:25:33,703 - WARNING - Insert of existing embedding ID: IOT-20.pdf_18
+2025-05-01 18:25:33,704 - WARNING - Insert of existing embedding ID: IOT-20.pdf_19
+2025-05-01 18:25:33,704 - WARNING - Insert of existing embedding ID: IOT-20.pdf_20
+2025-05-01 18:25:33,704 - WARNING - Insert of existing embedding ID: IOT-20.pdf_21
+2025-05-01 18:25:33,705 - WARNING - Insert of existing embedding ID: IOT-20.pdf_22
+2025-05-01 18:25:33,705 - WARNING - Insert of existing embedding ID: IOT-20.pdf_23
+2025-05-01 18:25:33,706 - WARNING - Insert of existing embedding ID: IOT-20.pdf_24
+2025-05-01 18:25:33,706 - WARNING - Insert of existing embedding ID: IOT-20.pdf_25
+2025-05-01 18:25:33,707 - WARNING - Insert of existing embedding ID: IOT-20.pdf_26
+2025-05-01 18:25:33,707 - WARNING - Insert of existing embedding ID: IOT-20.pdf_27
+2025-05-01 18:25:33,709 - WARNING - Insert of existing embedding ID: IOT-20.pdf_28
+2025-05-01 18:25:33,709 - WARNING - Insert of existing embedding ID: IOT-20.pdf_29
+2025-05-01 18:25:33,709 - WARNING - Insert of existing embedding ID: IOT-20.pdf_30
+2025-05-01 18:25:33,710 - WARNING - Insert of existing embedding ID: IOT-20.pdf_31
+2025-05-01 18:25:33,710 - WARNING - Insert of existing embedding ID: IOT-20.pdf_32
+2025-05-01 18:25:33,711 - WARNING - Insert of existing embedding ID: IOT-20.pdf_33
+2025-05-01 18:25:33,712 - WARNING - Insert of existing embedding ID: IOT-20.pdf_34
+2025-05-01 18:25:33,712 - WARNING - Insert of existing embedding ID: IOT-20.pdf_35
+2025-05-01 18:25:33,713 - WARNING - Insert of existing embedding ID: IOT-20.pdf_36
+2025-05-01 18:25:33,713 - WARNING - Insert of existing embedding ID: IOT-20.pdf_37
+2025-05-01 18:25:33,714 - WARNING - Insert of existing embedding ID: IOT-20.pdf_38
+2025-05-01 18:25:33,714 - WARNING - Insert of existing embedding ID: IOT-20.pdf_39
+2025-05-01 18:25:33,715 - WARNING - Insert of existing embedding ID: IOT-20.pdf_40
+2025-05-01 18:25:33,715 - WARNING - Insert of existing embedding ID: IOT-20.pdf_41
+2025-05-01 18:25:33,716 - WARNING - Insert of existing embedding ID: IOT-20.pdf_42
+2025-05-01 18:25:33,716 - WARNING - Insert of existing embedding ID: IOT-20.pdf_43
+2025-05-01 18:25:33,716 - WARNING - Insert of existing embedding ID: IOT-20.pdf_44
+2025-05-01 18:25:33,717 - WARNING - Insert of existing embedding ID: IOT-20.pdf_45
+2025-05-01 18:25:33,717 - WARNING - Insert of existing embedding ID: IOT-20.pdf_46
+2025-05-01 18:25:33,717 - WARNING - Add of existing embedding ID: IOT-20.pdf_0
+2025-05-01 18:25:33,717 - WARNING - Add of existing embedding ID: IOT-20.pdf_1
+2025-05-01 18:25:33,717 - WARNING - Add of existing embedding ID: IOT-20.pdf_2
+2025-05-01 18:25:33,719 - WARNING - Add of existing embedding ID: IOT-20.pdf_3
+2025-05-01 18:25:33,719 - WARNING - Add of existing embedding ID: IOT-20.pdf_4
+2025-05-01 18:25:33,719 - WARNING - Add of existing embedding ID: IOT-20.pdf_5
+2025-05-01 18:25:33,719 - WARNING - Add of existing embedding ID: IOT-20.pdf_6
+2025-05-01 18:25:33,719 - WARNING - Add of existing embedding ID: IOT-20.pdf_7
+2025-05-01 18:25:33,719 - WARNING - Add of existing embedding ID: IOT-20.pdf_8
+2025-05-01 18:25:33,719 - WARNING - Add of existing embedding ID: IOT-20.pdf_9
+2025-05-01 18:25:33,719 - WARNING - Add of existing embedding ID: IOT-20.pdf_10
+2025-05-01 18:25:33,719 - WARNING - Add of existing embedding ID: IOT-20.pdf_11
+2025-05-01 18:25:33,719 - WARNING - Add of existing embedding ID: IOT-20.pdf_12
+2025-05-01 18:25:33,719 - WARNING - Add of existing embedding ID: IOT-20.pdf_13
+2025-05-01 18:25:33,719 - WARNING - Add of existing embedding ID: IOT-20.pdf_14
+2025-05-01 18:25:33,720 - WARNING - Add of existing embedding ID: IOT-20.pdf_15
+2025-05-01 18:25:33,720 - WARNING - Add of existing embedding ID: IOT-20.pdf_16
+2025-05-01 18:25:33,720 - WARNING - Add of existing embedding ID: IOT-20.pdf_17
+2025-05-01 18:25:33,720 - WARNING - Add of existing embedding ID: IOT-20.pdf_18
+2025-05-01 18:25:33,720 - WARNING - Add of existing embedding ID: IOT-20.pdf_19
+2025-05-01 18:25:33,720 - WARNING - Add of existing embedding ID: IOT-20.pdf_20
+2025-05-01 18:25:33,720 - WARNING - Add of existing embedding ID: IOT-20.pdf_21
+2025-05-01 18:25:33,720 - WARNING - Add of existing embedding ID: IOT-20.pdf_22
+2025-05-01 18:25:33,720 - WARNING - Add of existing embedding ID: IOT-20.pdf_23
+2025-05-01 18:25:33,720 - WARNING - Add of existing embedding ID: IOT-20.pdf_24
+2025-05-01 18:25:33,720 - WARNING - Add of existing embedding ID: IOT-20.pdf_25
+2025-05-01 18:25:33,721 - WARNING - Add of existing embedding ID: IOT-20.pdf_26
+2025-05-01 18:25:33,721 - WARNING - Add of existing embedding ID: IOT-20.pdf_27
+2025-05-01 18:25:33,721 - WARNING - Add of existing embedding ID: IOT-20.pdf_28
+2025-05-01 18:25:33,721 - WARNING - Add of existing embedding ID: IOT-20.pdf_29
+2025-05-01 18:25:33,721 - WARNING - Add of existing embedding ID: IOT-20.pdf_30
+2025-05-01 18:25:33,721 - WARNING - Add of existing embedding ID: IOT-20.pdf_31
+2025-05-01 18:25:33,721 - WARNING - Add of existing embedding ID: IOT-20.pdf_32
+2025-05-01 18:25:33,721 - WARNING - Add of existing embedding ID: IOT-20.pdf_33
+2025-05-01 18:25:33,721 - WARNING - Add of existing embedding ID: IOT-20.pdf_34
+2025-05-01 18:25:33,721 - WARNING - Add of existing embedding ID: IOT-20.pdf_35
+2025-05-01 18:25:33,721 - WARNING - Add of existing embedding ID: IOT-20.pdf_36
+2025-05-01 18:25:33,722 - WARNING - Add of existing embedding ID: IOT-20.pdf_37
+2025-05-01 18:25:33,722 - WARNING - Add of existing embedding ID: IOT-20.pdf_38
+2025-05-01 18:25:33,722 - WARNING - Add of existing embedding ID: IOT-20.pdf_39
+2025-05-01 18:25:33,722 - WARNING - Add of existing embedding ID: IOT-20.pdf_40
+2025-05-01 18:25:33,722 - WARNING - Add of existing embedding ID: IOT-20.pdf_41
+2025-05-01 18:25:33,722 - WARNING - Add of existing embedding ID: IOT-20.pdf_42
+2025-05-01 18:25:33,722 - WARNING - Add of existing embedding ID: IOT-20.pdf_43
+2025-05-01 18:25:33,722 - WARNING - Add of existing embedding ID: IOT-20.pdf_44
+2025-05-01 18:25:33,722 - WARNING - Add of existing embedding ID: IOT-20.pdf_45
+2025-05-01 18:25:33,722 - WARNING - Add of existing embedding ID: IOT-20.pdf_46
+2025-05-01 18:25:33,727 - INFO - Added 47 chunks to VectorDB for IOT-20.pdf
+2025-05-01 18:25:33,727 - INFO - Processed file: IOT-20.pdf
+2025-05-01 18:26:27,368 - INFO - Answered query: i want you to give me 10 pair of long answer ans questions from the given files 
+2025-05-01 18:27:26,869 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:27:26,870 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:27:29,386 - INFO - Embedder initialized
+2025-05-01 18:27:29,464 - INFO - VectorDB initialized
+2025-05-01 18:27:29,467 - INFO - Database initialized
+2025-05-01 18:27:47,644 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:27:47,646 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:27:50,144 - INFO - Embedder initialized
+2025-05-01 18:27:50,194 - INFO - VectorDB initialized
+2025-05-01 18:27:50,197 - INFO - Database initialized
+2025-05-01 18:27:58,513 - INFO - Answered query: give me list of popular protocols in IOT
+2025-05-01 18:28:08,514 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:28:08,515 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:28:10,978 - INFO - Embedder initialized
+2025-05-01 18:28:11,029 - INFO - VectorDB initialized
+2025-05-01 18:28:11,032 - INFO - Database initialized
+2025-05-01 18:28:29,346 - INFO - Answered query: give me list of popular protocols in IOT along with that they do 
+2025-05-01 18:28:45,275 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:28:45,276 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:28:48,056 - INFO - Embedder initialized
+2025-05-01 18:28:48,104 - INFO - VectorDB initialized
+2025-05-01 18:28:48,106 - INFO - Database initialized
+2025-05-01 18:28:48,130 - INFO - Added document to database: Chapter-01.pdf
+2025-05-01 18:28:49,139 - INFO - Split text into 65 chunks for Chapter-01.pdf
+2025-05-01 18:28:52,292 - INFO - Added 65 chunks to VectorDB for Chapter-01.pdf
+2025-05-01 18:28:52,292 - INFO - Processed file: Chapter-01.pdf
+2025-05-01 18:28:52,302 - INFO - Added document to database: Chapter-02.pdf
+2025-05-01 18:28:52,700 - INFO - Split text into 25 chunks for Chapter-02.pdf
+2025-05-01 18:28:54,517 - INFO - Added 25 chunks to VectorDB for Chapter-02.pdf
+2025-05-01 18:28:54,517 - INFO - Processed file: Chapter-02.pdf
+2025-05-01 18:28:54,527 - INFO - Added document to database: Chapter-03.pdf
+2025-05-01 18:28:54,848 - INFO - Split text into 29 chunks for Chapter-03.pdf
+2025-05-01 18:28:56,859 - INFO - Added 29 chunks to VectorDB for Chapter-03.pdf
+2025-05-01 18:28:56,859 - INFO - Processed file: Chapter-03.pdf
+2025-05-01 18:28:56,869 - INFO - Added document to database: Chapter-04 Javascript_Updated.pdf
+2025-05-01 18:28:58,869 - INFO - Split text into 144 chunks for Chapter-04 Javascript_Updated.pdf
+2025-05-01 18:29:07,645 - INFO - Added 144 chunks to VectorDB for Chapter-04 Javascript_Updated.pdf
+2025-05-01 18:29:07,645 - INFO - Processed file: Chapter-04 Javascript_Updated.pdf
+2025-05-01 18:29:27,459 - INFO - Answered query: give me list of popular protocols in IOT along with that they do 
+2025-05-01 18:29:39,099 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:29:39,099 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:29:40,671 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:29:40,671 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:29:41,637 - INFO - Embedder initialized
+2025-05-01 18:29:41,688 - INFO - VectorDB initialized
+2025-05-01 18:29:41,691 - INFO - Database initialized
+2025-05-01 18:29:43,600 - INFO - Embedder initialized
+2025-05-01 18:29:43,656 - INFO - VectorDB initialized
+2025-05-01 18:29:43,657 - INFO - Database initialized
+2025-05-01 18:29:53,134 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:29:53,134 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:29:55,627 - INFO - Embedder initialized
+2025-05-01 18:29:55,677 - INFO - VectorDB initialized
+2025-05-01 18:29:55,679 - INFO - Database initialized
+2025-05-01 18:29:55,701 - INFO - Added document to database: Chapter 7- Database Connectivity.pdf
+2025-05-01 18:29:56,580 - INFO - Split text into 65 chunks for Chapter 7- Database Connectivity.pdf
+2025-05-01 18:29:59,793 - INFO - Added 65 chunks to VectorDB for Chapter 7- Database Connectivity.pdf
+2025-05-01 18:29:59,794 - INFO - Processed file: Chapter 7- Database Connectivity.pdf
+2025-05-01 18:29:59,803 - INFO - Added document to database: Chapter-06 Server sided scripting.pdf
+2025-05-01 18:30:02,159 - INFO - Split text into 79 chunks for Chapter-06 Server sided scripting.pdf
+2025-05-01 18:30:07,055 - INFO - Added 79 chunks to VectorDB for Chapter-06 Server sided scripting.pdf
+2025-05-01 18:30:07,056 - INFO - Processed file: Chapter-06 Server sided scripting.pdf
+2025-05-01 18:30:28,216 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:30:28,216 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:30:30,778 - INFO - Embedder initialized
+2025-05-01 18:30:30,828 - INFO - VectorDB initialized
+2025-05-01 18:30:30,832 - INFO - Database initialized
+2025-05-01 18:30:30,854 - INFO - Added document to database: Chapter 7- Database Connectivity.pdf
+2025-05-01 18:30:31,735 - INFO - Split text into 65 chunks for Chapter 7- Database Connectivity.pdf
+2025-05-01 18:30:35,274 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_0
+2025-05-01 18:30:35,275 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_1
+2025-05-01 18:30:35,275 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_2
+2025-05-01 18:30:35,276 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_3
+2025-05-01 18:30:35,277 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_4
+2025-05-01 18:30:35,277 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_5
+2025-05-01 18:30:35,278 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_6
+2025-05-01 18:30:35,279 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_7
+2025-05-01 18:30:35,279 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_8
+2025-05-01 18:30:35,280 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_9
+2025-05-01 18:30:35,280 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_10
+2025-05-01 18:30:35,281 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_11
+2025-05-01 18:30:35,281 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_12
+2025-05-01 18:30:35,282 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_13
+2025-05-01 18:30:35,282 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_14
+2025-05-01 18:30:35,284 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_15
+2025-05-01 18:30:35,284 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_16
+2025-05-01 18:30:35,285 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_17
+2025-05-01 18:30:35,285 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_18
+2025-05-01 18:30:35,286 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_19
+2025-05-01 18:30:35,287 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_20
+2025-05-01 18:30:35,287 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_21
+2025-05-01 18:30:35,288 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_22
+2025-05-01 18:30:35,288 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_23
+2025-05-01 18:30:35,289 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_24
+2025-05-01 18:30:35,290 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_25
+2025-05-01 18:30:35,291 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_26
+2025-05-01 18:30:35,292 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_27
+2025-05-01 18:30:35,292 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_28
+2025-05-01 18:30:35,293 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_29
+2025-05-01 18:30:35,293 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_30
+2025-05-01 18:30:35,294 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_31
+2025-05-01 18:30:35,294 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_32
+2025-05-01 18:30:35,294 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_33
+2025-05-01 18:30:35,295 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_34
+2025-05-01 18:30:35,295 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_35
+2025-05-01 18:30:35,296 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_36
+2025-05-01 18:30:35,296 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_37
+2025-05-01 18:30:35,297 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_38
+2025-05-01 18:30:35,297 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_39
+2025-05-01 18:30:35,298 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_40
+2025-05-01 18:30:35,298 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_41
+2025-05-01 18:30:35,299 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_42
+2025-05-01 18:30:35,300 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_43
+2025-05-01 18:30:35,300 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_44
+2025-05-01 18:30:35,301 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_45
+2025-05-01 18:30:35,301 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_46
+2025-05-01 18:30:35,302 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_47
+2025-05-01 18:30:35,302 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_48
+2025-05-01 18:30:35,302 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_49
+2025-05-01 18:30:35,304 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_50
+2025-05-01 18:30:35,304 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_51
+2025-05-01 18:30:35,305 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_52
+2025-05-01 18:30:35,305 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_53
+2025-05-01 18:30:35,306 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_54
+2025-05-01 18:30:35,306 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_55
+2025-05-01 18:30:35,307 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_56
+2025-05-01 18:30:35,307 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_57
+2025-05-01 18:30:35,308 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_58
+2025-05-01 18:30:35,308 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_59
+2025-05-01 18:30:35,309 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_60
+2025-05-01 18:30:35,309 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_61
+2025-05-01 18:30:35,310 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_62
+2025-05-01 18:30:35,310 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_63
+2025-05-01 18:30:35,311 - WARNING - Insert of existing embedding ID: Chapter 7- Database Connectivity.pdf_64
+2025-05-01 18:30:35,311 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_0
+2025-05-01 18:30:35,311 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_1
+2025-05-01 18:30:35,311 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_2
+2025-05-01 18:30:35,311 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_3
+2025-05-01 18:30:35,312 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_4
+2025-05-01 18:30:35,312 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_5
+2025-05-01 18:30:35,312 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_6
+2025-05-01 18:30:35,312 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_7
+2025-05-01 18:30:35,312 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_8
+2025-05-01 18:30:35,312 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_9
+2025-05-01 18:30:35,312 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_10
+2025-05-01 18:30:35,312 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_11
+2025-05-01 18:30:35,312 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_12
+2025-05-01 18:30:35,312 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_13
+2025-05-01 18:30:35,312 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_14
+2025-05-01 18:30:35,313 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_15
+2025-05-01 18:30:35,313 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_16
+2025-05-01 18:30:35,313 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_17
+2025-05-01 18:30:35,313 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_18
+2025-05-01 18:30:35,313 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_19
+2025-05-01 18:30:35,313 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_20
+2025-05-01 18:30:35,313 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_21
+2025-05-01 18:30:35,313 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_22
+2025-05-01 18:30:35,313 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_23
+2025-05-01 18:30:35,314 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_24
+2025-05-01 18:30:35,314 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_25
+2025-05-01 18:30:35,314 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_26
+2025-05-01 18:30:35,314 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_27
+2025-05-01 18:30:35,314 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_28
+2025-05-01 18:30:35,314 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_29
+2025-05-01 18:30:35,315 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_30
+2025-05-01 18:30:35,315 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_31
+2025-05-01 18:30:35,315 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_32
+2025-05-01 18:30:35,315 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_33
+2025-05-01 18:30:35,315 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_34
+2025-05-01 18:30:35,315 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_35
+2025-05-01 18:30:35,315 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_36
+2025-05-01 18:30:35,315 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_37
+2025-05-01 18:30:35,315 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_38
+2025-05-01 18:30:35,315 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_39
+2025-05-01 18:30:35,316 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_40
+2025-05-01 18:30:35,316 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_41
+2025-05-01 18:30:35,316 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_42
+2025-05-01 18:30:35,316 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_43
+2025-05-01 18:30:35,316 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_44
+2025-05-01 18:30:35,316 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_45
+2025-05-01 18:30:35,316 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_46
+2025-05-01 18:30:35,316 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_47
+2025-05-01 18:30:35,316 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_48
+2025-05-01 18:30:35,316 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_49
+2025-05-01 18:30:35,317 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_50
+2025-05-01 18:30:35,317 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_51
+2025-05-01 18:30:35,317 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_52
+2025-05-01 18:30:35,317 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_53
+2025-05-01 18:30:35,317 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_54
+2025-05-01 18:30:35,317 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_55
+2025-05-01 18:30:35,317 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_56
+2025-05-01 18:30:35,317 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_57
+2025-05-01 18:30:35,317 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_58
+2025-05-01 18:30:35,317 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_59
+2025-05-01 18:30:35,318 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_60
+2025-05-01 18:30:35,318 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_61
+2025-05-01 18:30:35,318 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_62
+2025-05-01 18:30:35,318 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_63
+2025-05-01 18:30:35,318 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_64
+2025-05-01 18:30:35,327 - INFO - Added 65 chunks to VectorDB for Chapter 7- Database Connectivity.pdf
+2025-05-01 18:30:35,327 - INFO - Processed file: Chapter 7- Database Connectivity.pdf
+2025-05-01 18:30:35,338 - INFO - Added document to database: Chapter-06 Server sided scripting.pdf
+2025-05-01 18:30:37,903 - INFO - Split text into 79 chunks for Chapter-06 Server sided scripting.pdf
+2025-05-01 18:30:42,885 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_0
+2025-05-01 18:30:42,886 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_1
+2025-05-01 18:30:42,887 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_2
+2025-05-01 18:30:42,888 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_3
+2025-05-01 18:30:42,889 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_4
+2025-05-01 18:30:42,889 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_5
+2025-05-01 18:30:42,890 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_6
+2025-05-01 18:30:42,890 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_7
+2025-05-01 18:30:42,891 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_8
+2025-05-01 18:30:42,891 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_9
+2025-05-01 18:30:42,892 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_10
+2025-05-01 18:30:42,892 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_11
+2025-05-01 18:30:42,893 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_12
+2025-05-01 18:30:42,893 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_13
+2025-05-01 18:30:42,894 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_14
+2025-05-01 18:30:42,895 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_15
+2025-05-01 18:30:42,895 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_16
+2025-05-01 18:30:42,896 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_17
+2025-05-01 18:30:42,896 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_18
+2025-05-01 18:30:42,897 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_19
+2025-05-01 18:30:42,897 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_20
+2025-05-01 18:30:42,898 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_21
+2025-05-01 18:30:42,899 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_22
+2025-05-01 18:30:42,899 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_23
+2025-05-01 18:30:42,900 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_24
+2025-05-01 18:30:42,900 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_25
+2025-05-01 18:30:42,901 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_26
+2025-05-01 18:30:42,901 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_27
+2025-05-01 18:30:42,902 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_28
+2025-05-01 18:30:42,902 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_29
+2025-05-01 18:30:42,903 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_30
+2025-05-01 18:30:42,903 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_31
+2025-05-01 18:30:42,903 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_32
+2025-05-01 18:30:42,904 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_33
+2025-05-01 18:30:42,904 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_34
+2025-05-01 18:30:42,905 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_35
+2025-05-01 18:30:42,905 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_36
+2025-05-01 18:30:42,906 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_37
+2025-05-01 18:30:42,906 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_38
+2025-05-01 18:30:42,907 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_39
+2025-05-01 18:30:42,907 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_40
+2025-05-01 18:30:42,908 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_41
+2025-05-01 18:30:42,908 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_42
+2025-05-01 18:30:42,909 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_43
+2025-05-01 18:30:42,909 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_44
+2025-05-01 18:30:42,909 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_45
+2025-05-01 18:30:42,910 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_46
+2025-05-01 18:30:42,910 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_47
+2025-05-01 18:30:42,911 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_48
+2025-05-01 18:30:42,912 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_49
+2025-05-01 18:30:42,912 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_50
+2025-05-01 18:30:42,913 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_51
+2025-05-01 18:30:42,913 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_52
+2025-05-01 18:30:42,914 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_53
+2025-05-01 18:30:42,915 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_54
+2025-05-01 18:30:42,915 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_55
+2025-05-01 18:30:42,916 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_56
+2025-05-01 18:30:42,916 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_57
+2025-05-01 18:30:42,916 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_58
+2025-05-01 18:30:42,917 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_59
+2025-05-01 18:30:42,917 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_60
+2025-05-01 18:30:42,917 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_61
+2025-05-01 18:30:42,918 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_62
+2025-05-01 18:30:42,918 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_63
+2025-05-01 18:30:42,919 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_64
+2025-05-01 18:30:42,919 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_65
+2025-05-01 18:30:42,920 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_66
+2025-05-01 18:30:42,921 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_67
+2025-05-01 18:30:42,921 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_68
+2025-05-01 18:30:42,922 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_69
+2025-05-01 18:30:42,922 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_70
+2025-05-01 18:30:42,923 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_71
+2025-05-01 18:30:42,923 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_72
+2025-05-01 18:30:42,924 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_73
+2025-05-01 18:30:42,925 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_74
+2025-05-01 18:30:42,925 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_75
+2025-05-01 18:30:42,925 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_76
+2025-05-01 18:30:42,926 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_77
+2025-05-01 18:30:42,926 - WARNING - Insert of existing embedding ID: Chapter-06 Server sided scripting.pdf_78
+2025-05-01 18:30:42,927 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_0
+2025-05-01 18:30:42,927 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_1
+2025-05-01 18:30:42,927 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_2
+2025-05-01 18:30:42,927 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_3
+2025-05-01 18:30:42,927 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_4
+2025-05-01 18:30:42,927 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_5
+2025-05-01 18:30:42,927 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_6
+2025-05-01 18:30:42,927 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_7
+2025-05-01 18:30:42,927 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_8
+2025-05-01 18:30:42,927 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_9
+2025-05-01 18:30:42,928 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_10
+2025-05-01 18:30:42,928 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_11
+2025-05-01 18:30:42,928 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_12
+2025-05-01 18:30:42,928 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_13
+2025-05-01 18:30:42,928 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_14
+2025-05-01 18:30:42,928 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_15
+2025-05-01 18:30:42,928 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_16
+2025-05-01 18:30:42,928 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_17
+2025-05-01 18:30:42,928 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_18
+2025-05-01 18:30:42,928 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_19
+2025-05-01 18:30:42,929 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_20
+2025-05-01 18:30:42,929 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_21
+2025-05-01 18:30:42,929 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_22
+2025-05-01 18:30:42,929 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_23
+2025-05-01 18:30:42,929 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_24
+2025-05-01 18:30:42,929 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_25
+2025-05-01 18:30:42,929 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_26
+2025-05-01 18:30:42,929 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_27
+2025-05-01 18:30:42,929 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_28
+2025-05-01 18:30:42,929 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_29
+2025-05-01 18:30:42,929 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_30
+2025-05-01 18:30:42,929 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_31
+2025-05-01 18:30:42,930 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_32
+2025-05-01 18:30:42,930 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_33
+2025-05-01 18:30:42,930 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_34
+2025-05-01 18:30:42,930 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_35
+2025-05-01 18:30:42,930 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_36
+2025-05-01 18:30:42,930 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_37
+2025-05-01 18:30:42,930 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_38
+2025-05-01 18:30:42,930 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_39
+2025-05-01 18:30:42,930 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_40
+2025-05-01 18:30:42,930 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_41
+2025-05-01 18:30:42,930 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_42
+2025-05-01 18:30:42,931 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_43
+2025-05-01 18:30:42,931 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_44
+2025-05-01 18:30:42,931 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_45
+2025-05-01 18:30:42,931 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_46
+2025-05-01 18:30:42,931 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_47
+2025-05-01 18:30:42,931 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_48
+2025-05-01 18:30:42,931 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_49
+2025-05-01 18:30:42,931 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_50
+2025-05-01 18:30:42,931 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_51
+2025-05-01 18:30:42,931 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_52
+2025-05-01 18:30:42,931 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_53
+2025-05-01 18:30:42,932 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_54
+2025-05-01 18:30:42,932 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_55
+2025-05-01 18:30:42,932 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_56
+2025-05-01 18:30:42,932 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_57
+2025-05-01 18:30:42,932 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_58
+2025-05-01 18:30:42,932 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_59
+2025-05-01 18:30:42,932 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_60
+2025-05-01 18:30:42,932 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_61
+2025-05-01 18:30:42,932 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_62
+2025-05-01 18:30:42,932 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_63
+2025-05-01 18:30:42,932 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_64
+2025-05-01 18:30:42,932 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_65
+2025-05-01 18:30:42,933 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_66
+2025-05-01 18:30:42,933 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_67
+2025-05-01 18:30:42,933 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_68
+2025-05-01 18:30:42,933 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_69
+2025-05-01 18:30:42,933 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_70
+2025-05-01 18:30:42,933 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_71
+2025-05-01 18:30:42,933 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_72
+2025-05-01 18:30:42,933 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_73
+2025-05-01 18:30:42,933 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_74
+2025-05-01 18:30:42,933 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_75
+2025-05-01 18:30:42,933 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_76
+2025-05-01 18:30:42,933 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_77
+2025-05-01 18:30:42,933 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_78
+2025-05-01 18:30:42,942 - INFO - Added 79 chunks to VectorDB for Chapter-06 Server sided scripting.pdf
+2025-05-01 18:30:42,942 - INFO - Processed file: Chapter-06 Server sided scripting.pdf
+2025-05-01 18:31:01,553 - INFO - Answered query: can you teach me how to set up database connection in javascript and PHP 
+2025-05-01 18:31:24,871 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:31:24,871 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:31:25,647 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:31:25,647 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:31:27,434 - INFO - Embedder initialized
+2025-05-01 18:31:27,486 - INFO - VectorDB initialized
+2025-05-01 18:31:27,489 - INFO - Database initialized
+2025-05-01 18:31:28,224 - INFO - Embedder initialized
+2025-05-01 18:31:28,273 - INFO - VectorDB initialized
+2025-05-01 18:31:28,274 - INFO - Database initialized
+2025-05-01 18:31:39,991 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:31:39,991 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:31:42,617 - INFO - Embedder initialized
+2025-05-01 18:31:42,681 - INFO - VectorDB initialized
+2025-05-01 18:31:42,685 - INFO - Database initialized
+2025-05-01 18:32:31,474 - INFO - Answered query: teach me everything about php
+2025-05-01 18:33:39,250 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:33:39,250 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:33:42,185 - INFO - Embedder initialized
+2025-05-01 18:33:42,243 - INFO - VectorDB initialized
+2025-05-01 18:33:42,245 - INFO - Database initialized
+2025-05-01 18:34:01,573 - INFO - Answered query: what is IoT? Explain important components of IOT
+2025-05-01 18:35:09,394 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:35:09,395 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:35:11,882 - INFO - Embedder initialized
+2025-05-01 18:35:11,936 - INFO - VectorDB initialized
+2025-05-01 18:35:11,938 - INFO - Database initialized
+2025-05-01 18:35:34,835 - INFO - Answered query: types of satellite orbits and their explanations 
+2025-05-01 18:36:21,960 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:36:21,960 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:36:24,787 - INFO - Embedder initialized
+2025-05-01 18:36:24,840 - INFO - VectorDB initialized
+2025-05-01 18:36:24,841 - INFO - Database initialized
+2025-05-01 18:36:32,172 - INFO - Answered query: key components of IOT framework 
+2025-05-01 18:41:06,701 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:41:06,701 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:41:09,401 - INFO - Embedder initialized
+2025-05-01 18:41:09,468 - INFO - VectorDB initialized
+2025-05-01 18:41:09,470 - INFO - Database initialized
+2025-05-01 18:41:32,492 - INFO - Received answer: The Key Components of an Internet of Things (IoT) Framework, as outlined in the document IOT-19.pdf,...
+2025-05-01 18:41:32,498 - INFO - Answered query: key components of IOT framework 
+2025-05-01 18:41:34,743 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:41:34,743 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:41:37,335 - INFO - Embedder initialized
+2025-05-01 18:41:37,384 - INFO - VectorDB initialized
+2025-05-01 18:41:37,386 - INFO - Database initialized
+2025-05-01 18:42:11,936 - INFO - Received answer: Based on the provided context, here is an introduction to the basics of PHP (Hypertext Preprocessor)...
+2025-05-01 18:42:11,940 - INFO - Answered query: completely teach me basics of PHP with code and syntax 
+2025-05-01 18:43:24,577 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:43:24,577 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:43:27,444 - INFO - Embedder initialized
+2025-05-01 18:43:27,495 - INFO - VectorDB initialized
+2025-05-01 18:43:27,497 - INFO - Database initialized
+2025-05-01 18:43:50,033 - INFO - Received answer: RFID (Radio-Frequency Identification) technology is a wireless non-contact system that uses radio-fr...
+2025-05-01 18:43:50,036 - INFO - Answered query: explain RFID technology to me clearly, how it works and where it is used
+2025-05-01 18:45:53,493 - INFO - Use pytorch device_name: cpu
+2025-05-01 18:45:53,493 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 18:45:56,100 - INFO - Embedder initialized
+2025-05-01 18:45:56,167 - INFO - VectorDB initialized
+2025-05-01 18:45:56,170 - INFO - Database initialized
+2025-05-01 19:25:22,559 - INFO - Use pytorch device_name: cpu
+2025-05-01 19:25:22,559 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 19:25:22,563 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-05-01 19:25:22,924 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-05-01 19:25:23,171 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-05-01 19:25:23,418 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-05-01 19:25:23,663 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-05-01 19:25:23,907 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-05-01 19:25:24,631 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-05-01 19:25:25,379 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-05-01 19:25:25,676 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6752
+2025-05-01 19:25:25,931 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6752
+2025-05-01 19:25:25,934 - INFO - Embedder initialized
+2025-05-01 19:25:25,975 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-05-01 19:25:26,181 - DEBUG - Starting component System
+2025-05-01 19:25:26,182 - DEBUG - Starting component Posthog
+2025-05-01 19:25:26,182 - DEBUG - Starting component OpenTelemetryClient
+2025-05-01 19:25:26,182 - DEBUG - Starting component SimpleAssignmentPolicy
+2025-05-01 19:25:26,182 - DEBUG - Starting component SqliteDB
+2025-05-01 19:25:26,191 - DEBUG - Starting component QuotaEnforcer
+2025-05-01 19:25:26,192 - DEBUG - Starting component LocalSegmentManager
+2025-05-01 19:25:26,192 - DEBUG - Starting component SegmentAPI
+2025-05-01 19:25:26,272 - INFO - VectorDB initialized
+2025-05-01 19:25:26,296 - INFO - Database initialized
+2025-05-01 19:25:26,729 - DEBUG - Starting new HTTPS connection (1): us.i.posthog.com:443
+2025-05-01 19:25:27,520 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 15
+2025-05-01 19:26:45,005 - INFO - Use pytorch device_name: cpu
+2025-05-01 19:26:45,005 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 19:26:45,008 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-05-01 19:26:45,498 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-05-01 19:26:45,749 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-05-01 19:26:45,993 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-05-01 19:26:46,243 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-05-01 19:26:46,493 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-05-01 19:26:46,742 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-05-01 19:26:47,104 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-05-01 19:26:47,399 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6752
+2025-05-01 19:26:47,649 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6752
+2025-05-01 19:26:47,652 - INFO - Embedder initialized
+2025-05-01 19:26:47,708 - INFO - VectorDB initialized
+2025-05-01 19:26:47,711 - INFO - Database initialized
+2025-05-01 19:26:48,093 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 15
+2025-05-01 19:26:49,400 - DEBUG - Starting component PersistentLocalHnswSegment
+2025-05-01 19:26:49,481 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_0
+2025-05-01 19:26:49,481 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_1
+2025-05-01 19:26:49,482 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_2
+2025-05-01 19:26:49,482 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_3
+2025-05-01 19:26:49,483 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_4
+2025-05-01 19:26:49,483 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_5
+2025-05-01 19:26:49,484 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_6
+2025-05-01 19:26:49,484 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_7
+2025-05-01 19:26:49,485 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_8
+2025-05-01 19:26:49,485 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_9
+2025-05-01 19:26:49,485 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_10
+2025-05-01 19:26:49,486 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_11
+2025-05-01 19:26:49,486 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_12
+2025-05-01 19:26:49,486 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_13
+2025-05-01 19:26:49,486 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_14
+2025-05-01 19:26:49,486 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_15
+2025-05-01 19:26:49,487 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_16
+2025-05-01 19:26:49,487 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_17
+2025-05-01 19:26:49,487 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_18
+2025-05-01 19:26:49,487 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_19
+2025-05-01 19:26:49,487 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_20
+2025-05-01 19:26:49,487 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_21
+2025-05-01 19:26:49,487 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_22
+2025-05-01 19:26:49,488 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_23
+2025-05-01 19:26:49,488 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_24
+2025-05-01 19:26:49,488 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_25
+2025-05-01 19:26:49,488 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_26
+2025-05-01 19:26:49,488 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_27
+2025-05-01 19:26:49,488 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_28
+2025-05-01 19:26:49,488 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_29
+2025-05-01 19:26:49,489 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_30
+2025-05-01 19:26:49,489 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_31
+2025-05-01 19:26:49,489 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_32
+2025-05-01 19:26:49,489 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_33
+2025-05-01 19:26:49,489 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_34
+2025-05-01 19:26:49,489 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_0
+2025-05-01 19:26:49,489 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_1
+2025-05-01 19:26:49,489 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_2
+2025-05-01 19:26:49,490 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_3
+2025-05-01 19:26:49,490 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_4
+2025-05-01 19:26:49,490 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_5
+2025-05-01 19:26:49,490 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_6
+2025-05-01 19:26:49,490 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_7
+2025-05-01 19:26:49,490 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_8
+2025-05-01 19:26:49,490 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_9
+2025-05-01 19:26:49,491 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_10
+2025-05-01 19:26:49,491 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_11
+2025-05-01 19:26:49,491 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_12
+2025-05-01 19:26:49,491 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_13
+2025-05-01 19:26:49,491 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_14
+2025-05-01 19:26:49,491 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_15
+2025-05-01 19:26:49,491 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_16
+2025-05-01 19:26:49,491 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_17
+2025-05-01 19:26:49,492 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_18
+2025-05-01 19:26:49,492 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_19
+2025-05-01 19:26:49,492 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_20
+2025-05-01 19:26:49,492 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_21
+2025-05-01 19:26:49,492 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_22
+2025-05-01 19:26:49,492 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_23
+2025-05-01 19:26:49,492 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_24
+2025-05-01 19:26:49,492 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_25
+2025-05-01 19:26:49,492 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_26
+2025-05-01 19:26:49,492 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_27
+2025-05-01 19:26:49,492 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_28
+2025-05-01 19:26:49,493 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_29
+2025-05-01 19:26:49,493 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_30
+2025-05-01 19:26:49,493 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_31
+2025-05-01 19:26:49,493 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_32
+2025-05-01 19:26:49,493 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_33
+2025-05-01 19:26:49,493 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_34
+2025-05-01 19:26:49,493 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_0
+2025-05-01 19:26:49,494 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_1
+2025-05-01 19:26:49,494 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_2
+2025-05-01 19:26:49,494 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_3
+2025-05-01 19:26:49,494 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_4
+2025-05-01 19:26:49,494 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_5
+2025-05-01 19:26:49,495 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_6
+2025-05-01 19:26:49,495 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_7
+2025-05-01 19:26:49,495 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_8
+2025-05-01 19:26:49,495 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_9
+2025-05-01 19:26:49,495 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_10
+2025-05-01 19:26:49,495 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_11
+2025-05-01 19:26:49,495 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_12
+2025-05-01 19:26:49,495 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_13
+2025-05-01 19:26:49,496 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_14
+2025-05-01 19:26:49,496 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_15
+2025-05-01 19:26:49,496 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_16
+2025-05-01 19:26:49,496 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_17
+2025-05-01 19:26:49,496 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_18
+2025-05-01 19:26:49,496 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_19
+2025-05-01 19:26:49,497 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_20
+2025-05-01 19:26:49,497 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_21
+2025-05-01 19:26:49,497 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_22
+2025-05-01 19:26:49,497 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_23
+2025-05-01 19:26:49,497 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_24
+2025-05-01 19:26:49,497 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_25
+2025-05-01 19:26:49,497 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_26
+2025-05-01 19:26:49,498 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_27
+2025-05-01 19:26:49,498 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_28
+2025-05-01 19:26:49,498 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_29
+2025-05-01 19:26:49,498 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_30
+2025-05-01 19:26:49,498 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_31
+2025-05-01 19:26:49,498 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_32
+2025-05-01 19:26:49,498 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_33
+2025-05-01 19:26:49,499 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_34
+2025-05-01 19:26:49,520 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_0
+2025-05-01 19:26:49,520 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_1
+2025-05-01 19:26:49,520 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_2
+2025-05-01 19:26:49,520 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_3
+2025-05-01 19:26:49,521 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_4
+2025-05-01 19:26:49,521 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_5
+2025-05-01 19:26:49,521 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_6
+2025-05-01 19:26:49,521 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_7
+2025-05-01 19:26:49,521 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_8
+2025-05-01 19:26:49,521 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_9
+2025-05-01 19:26:49,521 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_10
+2025-05-01 19:26:49,523 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_11
+2025-05-01 19:26:49,523 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_12
+2025-05-01 19:26:49,523 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_13
+2025-05-01 19:26:49,523 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_14
+2025-05-01 19:26:49,523 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_15
+2025-05-01 19:26:49,523 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_16
+2025-05-01 19:26:49,524 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_17
+2025-05-01 19:26:49,524 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_18
+2025-05-01 19:26:49,524 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_19
+2025-05-01 19:26:49,524 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_20
+2025-05-01 19:26:49,524 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_21
+2025-05-01 19:26:49,525 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_22
+2025-05-01 19:26:49,525 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_23
+2025-05-01 19:26:49,525 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_24
+2025-05-01 19:26:49,525 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_25
+2025-05-01 19:26:49,525 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_26
+2025-05-01 19:26:49,526 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_27
+2025-05-01 19:26:49,526 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_28
+2025-05-01 19:26:49,526 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_29
+2025-05-01 19:26:49,526 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_30
+2025-05-01 19:26:49,526 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_31
+2025-05-01 19:26:49,526 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_32
+2025-05-01 19:26:49,527 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_33
+2025-05-01 19:26:49,527 - WARNING - Add of existing embedding ID: 6LoWPAN-3.pdf_34
+2025-05-01 19:26:49,527 - WARNING - Add of existing embedding ID: IOT-19.pdf_0
+2025-05-01 19:26:49,527 - WARNING - Add of existing embedding ID: IOT-19.pdf_1
+2025-05-01 19:26:49,527 - WARNING - Add of existing embedding ID: IOT-19.pdf_2
+2025-05-01 19:26:49,527 - WARNING - Add of existing embedding ID: IOT-19.pdf_3
+2025-05-01 19:26:49,527 - WARNING - Add of existing embedding ID: IOT-19.pdf_4
+2025-05-01 19:26:49,528 - WARNING - Add of existing embedding ID: IOT-19.pdf_5
+2025-05-01 19:26:49,528 - WARNING - Add of existing embedding ID: IOT-19.pdf_6
+2025-05-01 19:26:49,528 - WARNING - Add of existing embedding ID: IOT-19.pdf_7
+2025-05-01 19:26:49,528 - WARNING - Add of existing embedding ID: IOT-19.pdf_8
+2025-05-01 19:26:49,528 - WARNING - Add of existing embedding ID: IOT-19.pdf_9
+2025-05-01 19:26:49,528 - WARNING - Add of existing embedding ID: IOT-19.pdf_10
+2025-05-01 19:26:49,528 - WARNING - Add of existing embedding ID: IOT-19.pdf_11
+2025-05-01 19:26:49,528 - WARNING - Add of existing embedding ID: IOT-19.pdf_12
+2025-05-01 19:26:49,529 - WARNING - Add of existing embedding ID: IOT-19.pdf_13
+2025-05-01 19:26:49,529 - WARNING - Add of existing embedding ID: IOT-19.pdf_14
+2025-05-01 19:26:49,529 - WARNING - Add of existing embedding ID: IOT-19.pdf_15
+2025-05-01 19:26:49,529 - WARNING - Add of existing embedding ID: IOT-19.pdf_16
+2025-05-01 19:26:49,529 - WARNING - Add of existing embedding ID: IOT-19.pdf_17
+2025-05-01 19:26:49,529 - WARNING - Add of existing embedding ID: IOT-19.pdf_18
+2025-05-01 19:26:49,529 - WARNING - Add of existing embedding ID: IOT-19.pdf_19
+2025-05-01 19:26:49,529 - WARNING - Add of existing embedding ID: IOT-19.pdf_20
+2025-05-01 19:26:49,530 - WARNING - Add of existing embedding ID: IOT-19.pdf_21
+2025-05-01 19:26:49,530 - WARNING - Add of existing embedding ID: IOT-19.pdf_22
+2025-05-01 19:26:49,530 - WARNING - Add of existing embedding ID: IOT-19.pdf_23
+2025-05-01 19:26:49,530 - WARNING - Add of existing embedding ID: IOT-19.pdf_24
+2025-05-01 19:26:49,530 - WARNING - Add of existing embedding ID: IOT-19.pdf_25
+2025-05-01 19:26:49,530 - WARNING - Add of existing embedding ID: IOT-19.pdf_26
+2025-05-01 19:26:49,530 - WARNING - Add of existing embedding ID: IOT-19.pdf_27
+2025-05-01 19:26:49,530 - WARNING - Add of existing embedding ID: IOT-19.pdf_28
+2025-05-01 19:26:49,531 - WARNING - Add of existing embedding ID: IOT-19.pdf_29
+2025-05-01 19:26:49,531 - WARNING - Add of existing embedding ID: IOT-19.pdf_30
+2025-05-01 19:26:49,531 - WARNING - Add of existing embedding ID: IOT-19.pdf_31
+2025-05-01 19:26:49,531 - WARNING - Add of existing embedding ID: IOT-19.pdf_32
+2025-05-01 19:26:49,531 - WARNING - Add of existing embedding ID: IOT-19.pdf_33
+2025-05-01 19:26:49,531 - WARNING - Add of existing embedding ID: IOT-19.pdf_34
+2025-05-01 19:26:49,531 - WARNING - Add of existing embedding ID: IOT-19.pdf_35
+2025-05-01 19:26:49,532 - WARNING - Add of existing embedding ID: IOT-19.pdf_36
+2025-05-01 19:26:49,532 - WARNING - Add of existing embedding ID: IOT-20.pdf_0
+2025-05-01 19:26:49,532 - WARNING - Add of existing embedding ID: IOT-20.pdf_1
+2025-05-01 19:26:49,532 - WARNING - Add of existing embedding ID: IOT-20.pdf_2
+2025-05-01 19:26:49,532 - WARNING - Add of existing embedding ID: IOT-20.pdf_3
+2025-05-01 19:26:49,532 - WARNING - Add of existing embedding ID: IOT-20.pdf_4
+2025-05-01 19:26:49,532 - WARNING - Add of existing embedding ID: IOT-20.pdf_5
+2025-05-01 19:26:49,533 - WARNING - Add of existing embedding ID: IOT-20.pdf_6
+2025-05-01 19:26:49,533 - WARNING - Add of existing embedding ID: IOT-20.pdf_7
+2025-05-01 19:26:49,533 - WARNING - Add of existing embedding ID: IOT-20.pdf_8
+2025-05-01 19:26:49,533 - WARNING - Add of existing embedding ID: IOT-20.pdf_9
+2025-05-01 19:26:49,534 - WARNING - Add of existing embedding ID: IOT-20.pdf_10
+2025-05-01 19:26:49,534 - WARNING - Add of existing embedding ID: IOT-20.pdf_11
+2025-05-01 19:26:49,534 - WARNING - Add of existing embedding ID: IOT-20.pdf_12
+2025-05-01 19:26:49,534 - WARNING - Add of existing embedding ID: IOT-20.pdf_13
+2025-05-01 19:26:49,534 - WARNING - Add of existing embedding ID: IOT-20.pdf_14
+2025-05-01 19:26:49,534 - WARNING - Add of existing embedding ID: IOT-20.pdf_15
+2025-05-01 19:26:49,535 - WARNING - Add of existing embedding ID: IOT-20.pdf_16
+2025-05-01 19:26:49,535 - WARNING - Add of existing embedding ID: IOT-20.pdf_17
+2025-05-01 19:26:49,535 - WARNING - Add of existing embedding ID: IOT-20.pdf_18
+2025-05-01 19:26:49,535 - WARNING - Add of existing embedding ID: IOT-20.pdf_19
+2025-05-01 19:26:49,535 - WARNING - Add of existing embedding ID: IOT-20.pdf_20
+2025-05-01 19:26:49,535 - WARNING - Add of existing embedding ID: IOT-20.pdf_21
+2025-05-01 19:26:49,536 - WARNING - Add of existing embedding ID: IOT-20.pdf_22
+2025-05-01 19:26:49,536 - WARNING - Add of existing embedding ID: IOT-20.pdf_23
+2025-05-01 19:26:49,536 - WARNING - Add of existing embedding ID: IOT-20.pdf_24
+2025-05-01 19:26:49,536 - WARNING - Add of existing embedding ID: IOT-20.pdf_25
+2025-05-01 19:26:49,536 - WARNING - Add of existing embedding ID: IOT-20.pdf_26
+2025-05-01 19:26:49,536 - WARNING - Add of existing embedding ID: IOT-20.pdf_27
+2025-05-01 19:26:49,536 - WARNING - Add of existing embedding ID: IOT-20.pdf_28
+2025-05-01 19:26:49,537 - WARNING - Add of existing embedding ID: IOT-20.pdf_29
+2025-05-01 19:26:49,537 - WARNING - Add of existing embedding ID: IOT-20.pdf_30
+2025-05-01 19:26:49,537 - WARNING - Add of existing embedding ID: IOT-20.pdf_31
+2025-05-01 19:26:49,537 - WARNING - Add of existing embedding ID: IOT-20.pdf_32
+2025-05-01 19:26:49,538 - WARNING - Add of existing embedding ID: IOT-20.pdf_33
+2025-05-01 19:26:49,538 - WARNING - Add of existing embedding ID: IOT-20.pdf_34
+2025-05-01 19:26:49,538 - WARNING - Add of existing embedding ID: IOT-20.pdf_35
+2025-05-01 19:26:49,538 - WARNING - Add of existing embedding ID: IOT-20.pdf_36
+2025-05-01 19:26:49,538 - WARNING - Add of existing embedding ID: IOT-20.pdf_37
+2025-05-01 19:26:49,539 - WARNING - Add of existing embedding ID: IOT-20.pdf_38
+2025-05-01 19:26:49,539 - WARNING - Add of existing embedding ID: IOT-20.pdf_39
+2025-05-01 19:26:49,539 - WARNING - Add of existing embedding ID: IOT-20.pdf_40
+2025-05-01 19:26:49,539 - WARNING - Add of existing embedding ID: IOT-20.pdf_41
+2025-05-01 19:26:49,539 - WARNING - Add of existing embedding ID: IOT-20.pdf_42
+2025-05-01 19:26:49,539 - WARNING - Add of existing embedding ID: IOT-20.pdf_43
+2025-05-01 19:26:49,539 - WARNING - Add of existing embedding ID: IOT-20.pdf_44
+2025-05-01 19:26:49,540 - WARNING - Add of existing embedding ID: IOT-20.pdf_45
+2025-05-01 19:26:49,540 - WARNING - Add of existing embedding ID: IOT-20.pdf_46
+2025-05-01 19:26:49,621 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_0
+2025-05-01 19:26:49,621 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_1
+2025-05-01 19:26:49,621 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_2
+2025-05-01 19:26:49,623 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_3
+2025-05-01 19:26:49,623 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_4
+2025-05-01 19:26:49,623 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_5
+2025-05-01 19:26:49,623 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_6
+2025-05-01 19:26:49,623 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_7
+2025-05-01 19:26:49,624 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_8
+2025-05-01 19:26:49,624 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_9
+2025-05-01 19:26:49,624 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_10
+2025-05-01 19:26:49,624 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_11
+2025-05-01 19:26:49,624 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_12
+2025-05-01 19:26:49,624 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_13
+2025-05-01 19:26:49,624 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_14
+2025-05-01 19:26:49,625 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_15
+2025-05-01 19:26:49,625 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_16
+2025-05-01 19:26:49,625 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_17
+2025-05-01 19:26:49,625 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_18
+2025-05-01 19:26:49,625 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_19
+2025-05-01 19:26:49,625 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_20
+2025-05-01 19:26:49,625 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_21
+2025-05-01 19:26:49,625 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_22
+2025-05-01 19:26:49,626 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_23
+2025-05-01 19:26:49,626 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_24
+2025-05-01 19:26:49,626 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_25
+2025-05-01 19:26:49,626 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_26
+2025-05-01 19:26:49,626 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_27
+2025-05-01 19:26:49,626 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_28
+2025-05-01 19:26:49,626 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_29
+2025-05-01 19:26:49,626 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_30
+2025-05-01 19:26:49,626 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_31
+2025-05-01 19:26:49,627 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_32
+2025-05-01 19:26:49,627 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_33
+2025-05-01 19:26:49,627 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_34
+2025-05-01 19:26:49,627 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_35
+2025-05-01 19:26:49,627 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_36
+2025-05-01 19:26:49,627 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_37
+2025-05-01 19:26:49,627 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_38
+2025-05-01 19:26:49,627 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_39
+2025-05-01 19:26:49,627 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_40
+2025-05-01 19:26:49,627 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_41
+2025-05-01 19:26:49,628 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_42
+2025-05-01 19:26:49,628 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_43
+2025-05-01 19:26:49,628 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_44
+2025-05-01 19:26:49,628 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_45
+2025-05-01 19:26:49,628 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_46
+2025-05-01 19:26:49,628 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_47
+2025-05-01 19:26:49,628 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_48
+2025-05-01 19:26:49,628 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_49
+2025-05-01 19:26:49,628 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_50
+2025-05-01 19:26:49,629 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_51
+2025-05-01 19:26:49,629 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_52
+2025-05-01 19:26:49,629 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_53
+2025-05-01 19:26:49,629 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_54
+2025-05-01 19:26:49,629 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_55
+2025-05-01 19:26:49,629 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_56
+2025-05-01 19:26:49,629 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_57
+2025-05-01 19:26:49,630 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_58
+2025-05-01 19:26:49,630 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_59
+2025-05-01 19:26:49,630 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_60
+2025-05-01 19:26:49,630 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_61
+2025-05-01 19:26:49,630 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_62
+2025-05-01 19:26:49,630 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_63
+2025-05-01 19:26:49,631 - WARNING - Add of existing embedding ID: Chapter 7- Database Connectivity.pdf_64
+2025-05-01 19:26:49,631 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_0
+2025-05-01 19:26:49,631 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_1
+2025-05-01 19:26:49,631 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_2
+2025-05-01 19:26:49,632 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_3
+2025-05-01 19:26:49,632 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_4
+2025-05-01 19:26:49,632 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_5
+2025-05-01 19:26:49,632 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_6
+2025-05-01 19:26:49,632 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_7
+2025-05-01 19:26:49,632 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_8
+2025-05-01 19:26:49,632 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_9
+2025-05-01 19:26:49,632 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_10
+2025-05-01 19:26:49,633 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_11
+2025-05-01 19:26:49,633 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_12
+2025-05-01 19:26:49,633 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_13
+2025-05-01 19:26:49,633 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_14
+2025-05-01 19:26:49,633 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_15
+2025-05-01 19:26:49,633 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_16
+2025-05-01 19:26:49,633 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_17
+2025-05-01 19:26:49,633 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_18
+2025-05-01 19:26:49,633 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_19
+2025-05-01 19:26:49,633 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_20
+2025-05-01 19:26:49,634 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_21
+2025-05-01 19:26:49,634 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_22
+2025-05-01 19:26:49,634 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_23
+2025-05-01 19:26:49,634 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_24
+2025-05-01 19:26:49,634 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_25
+2025-05-01 19:26:49,634 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_26
+2025-05-01 19:26:49,634 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_27
+2025-05-01 19:26:49,634 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_28
+2025-05-01 19:26:49,634 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_29
+2025-05-01 19:26:49,635 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_30
+2025-05-01 19:26:49,635 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_31
+2025-05-01 19:26:49,635 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_32
+2025-05-01 19:26:49,635 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_33
+2025-05-01 19:26:49,635 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_34
+2025-05-01 19:26:49,635 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_35
+2025-05-01 19:26:49,635 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_36
+2025-05-01 19:26:49,635 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_37
+2025-05-01 19:26:49,635 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_38
+2025-05-01 19:26:49,636 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_39
+2025-05-01 19:26:49,636 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_40
+2025-05-01 19:26:49,636 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_41
+2025-05-01 19:26:49,636 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_42
+2025-05-01 19:26:49,636 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_43
+2025-05-01 19:26:49,636 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_44
+2025-05-01 19:26:49,637 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_45
+2025-05-01 19:26:49,637 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_46
+2025-05-01 19:26:49,637 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_47
+2025-05-01 19:26:49,637 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_48
+2025-05-01 19:26:49,637 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_49
+2025-05-01 19:26:49,638 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_50
+2025-05-01 19:26:49,638 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_51
+2025-05-01 19:26:49,638 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_52
+2025-05-01 19:26:49,638 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_53
+2025-05-01 19:26:49,638 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_54
+2025-05-01 19:26:49,638 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_55
+2025-05-01 19:26:49,638 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_56
+2025-05-01 19:26:49,638 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_57
+2025-05-01 19:26:49,638 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_58
+2025-05-01 19:26:49,639 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_59
+2025-05-01 19:26:49,639 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_60
+2025-05-01 19:26:49,639 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_61
+2025-05-01 19:26:49,639 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_62
+2025-05-01 19:26:49,639 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_63
+2025-05-01 19:26:49,639 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_64
+2025-05-01 19:26:49,639 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_65
+2025-05-01 19:26:49,639 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_66
+2025-05-01 19:26:49,639 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_67
+2025-05-01 19:26:49,639 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_68
+2025-05-01 19:26:49,640 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_69
+2025-05-01 19:26:49,640 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_70
+2025-05-01 19:26:49,640 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_71
+2025-05-01 19:26:49,640 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_72
+2025-05-01 19:26:49,640 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_73
+2025-05-01 19:26:49,640 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_74
+2025-05-01 19:26:49,640 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_75
+2025-05-01 19:26:49,640 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_76
+2025-05-01 19:26:49,640 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_77
+2025-05-01 19:26:49,641 - WARNING - Add of existing embedding ID: Chapter-06 Server sided scripting.pdf_78
+2025-05-01 19:26:49,669 - DEBUG - Retrieved 0 chunks: []
+2025-05-01 19:26:49,670 - DEBUG - Query: why is object identification critical in IoT? Explain the structural aspect of IoT.
+2025-05-01 19:26:49,670 - DEBUG - Sending prompt to Mistral: You are an expert assistant. Based on the following document excerpts, provide a detailed, accurate, and well-explained answer to the question. Use only the information provided in the context, and if the context is insufficient, say so clearly. Structure your answer with clear explanations and examples where relevant.
+
+Context:
+
+
+Question: why is object identification critical in IoT? Explain the structural aspect of IoT.
+
+Answer:...
+2025-05-01 19:26:49,672 - DEBUG - Starting new HTTP connection (1): localhost:11434
+2025-05-01 19:26:50,451 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 15
+2025-05-01 19:27:24,732 - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2025-05-01 19:27:24,733 - INFO - Received answer: Object Identification is critical in the Internet of Things (IoT) for several reasons, primarily due...
+2025-05-01 19:27:24,736 - INFO - Answered query: why is object identification critical in IoT? Explain the structural aspect of IoT.
+2025-05-01 19:28:15,132 - INFO - Use pytorch device_name: cpu
+2025-05-01 19:28:15,132 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 19:28:15,138 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-05-01 19:28:15,512 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-05-01 19:28:15,759 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-05-01 19:28:16,017 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-05-01 19:28:16,263 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-05-01 19:28:16,511 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-05-01 19:28:16,754 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-05-01 19:28:17,205 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-05-01 19:28:17,501 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6752
+2025-05-01 19:28:17,757 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6752
+2025-05-01 19:28:17,760 - INFO - Embedder initialized
+2025-05-01 19:28:17,837 - INFO - VectorDB initialized
+2025-05-01 19:28:17,839 - INFO - Database initialized
+2025-05-01 19:28:17,891 - DEBUG - Retrieved 5 chunks: ['IOT-20.pdf', 'IOT-20.pdf', 'IOT-19.pdf', 'IOT-19.pdf', 'IOT-19.pdf']
+2025-05-01 19:28:17,892 - DEBUG - Query: what is IOT? explain important components of IOT
+2025-05-01 19:28:17,892 - DEBUG - Chunk from IOT-20.pdf: ration and communication.The Internet of Things (IoT) involves connecting
+physical devices to the in... (Distance: 0.5575215816497803)
+2025-05-01 19:28:17,892 - DEBUG - Chunk from IOT-20.pdf: vices, networks, and services, providing a
+framework for connectivity, data exchange,
+and applicatio... (Distance: 0.5915592908859253)
+2025-05-01 19:28:17,892 - DEBUG - Chunk from IOT-19.pdf: IoT solutions, ensuring
+consistency and interoperability.
+Device Management
+ IoT frameworks often pr... (Distance: 0.6674918532371521)
+2025-05-01 19:28:17,892 - DEBUG - Chunk from IOT-19.pdf: ng the overall IoT system from a business
+perspective.
+It includes components related to business mo... (Distance: 0.6714683771133423)
+2025-05-01 19:28:17,892 - DEBUG - Chunk from IOT-19.pdf: re-built
+components, architectural blueprints, and proven methodologies,
+reducing the time and effor... (Distance: 0.6761037111282349)
+2025-05-01 19:28:17,893 - DEBUG - Sending prompt to Mistral: You are an expert assistant. Based on the following document excerpts, provide a detailed, accurate, and well-explained answer to the question. Use only the information provided in the context, and if the context is insufficient, say so clearly. Structure your answer with clear explanations and examples where relevant.
+
+Context:
+Document: IOT-20.pdf
+ration and communication.The Internet of Things (IoT) involves connecting
+physical devices to the internet, enabling them
+to collect and exchange da...
+2025-05-01 19:28:17,895 - DEBUG - Starting new HTTP connection (1): localhost:11434
+2025-05-01 19:28:18,146 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 15
+2025-05-01 19:28:44,693 - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2025-05-01 19:28:44,693 - INFO - Received answer: The Internet of Things (IoT) refers to a network of physical devices that are connected to the inter...
+2025-05-01 19:28:44,701 - INFO - Answered query: what is IOT? explain important components of IOT
+2025-05-01 19:34:10,801 - INFO - Use pytorch device_name: cpu
+2025-05-01 19:34:10,801 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 19:34:10,803 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-05-01 19:34:11,185 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-05-01 19:34:11,443 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-05-01 19:34:11,696 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-05-01 19:34:11,949 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-05-01 19:34:12,666 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-05-01 19:34:12,914 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-05-01 19:34:13,277 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-05-01 19:34:13,569 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6752
+2025-05-01 19:34:13,821 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6752
+2025-05-01 19:34:13,824 - INFO - Embedder initialized
+2025-05-01 19:34:13,862 - DEBUG - Resetting dropped connection: us.i.posthog.com
+2025-05-01 19:34:13,886 - INFO - VectorDB initialized
+2025-05-01 19:34:13,889 - INFO - Database initialized
+2025-05-01 19:34:13,945 - DEBUG - Retrieved 2 chunks: ['Chapter-06 Server sided scripting.pdf', 'Chapter-06 Server sided scripting.pdf']
+2025-05-01 19:34:13,945 - DEBUG - Query: what is server-side programming? explain any four pre defined variables in PHP
+2025-05-01 19:34:13,946 - DEBUG - Chunk from Chapter-06 Server sided scripting.pdf:  
+Unit -6 
+Introduction  to server -side Programming  
+ 
+The techniques of writing the programs whos... (Distance: 0.6300272941589355)
+2025-05-01 19:34:13,946 - DEBUG - Chunk from Chapter-06 Server sided scripting.pdf: They  are dynamic,  meaning  their  value  can 
+change  throughout  the execution  of the script.  V... (Distance: 0.7293617129325867)
+2025-05-01 19:34:13,946 - DEBUG - Sending prompt to Mistral: You are an expert assistant. Based on the following document excerpts, provide a detailed, accurate, and well-explained answer to the question. You must give the best possible answer from the provided context. Try to elaborate the response as much as possible and try to make it as clear as possibleUse only the information provided in the context, and if the context is insufficient, say so clearly. Structure your answer with clear explanations and examples where relevant.
+
+Context:
+Document: Chap...
+2025-05-01 19:34:13,949 - DEBUG - Starting new HTTP connection (1): localhost:11434
+2025-05-01 19:34:14,657 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 15
+2025-05-01 19:34:15,431 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 15
+2025-05-01 19:34:44,992 - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2025-05-01 19:34:44,993 - INFO - Received answer: Server-side programming refers to the technique of writing programs that execute on a web server, an...
+2025-05-01 19:34:44,997 - INFO - Answered query: what is server-side programming? explain any four pre defined variables in PHP
+2025-05-01 19:39:20,499 - INFO - Use pytorch device_name: cpu
+2025-05-01 19:39:20,499 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-05-01 19:39:20,502 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-05-01 19:39:20,857 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-05-01 19:39:21,108 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-05-01 19:39:21,354 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-05-01 19:39:21,610 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-05-01 19:39:22,055 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-05-01 19:39:22,388 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-05-01 19:39:22,848 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-05-01 19:39:23,161 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/1.1" 200 6752
+2025-05-01 19:39:23,600 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/1.1" 200 6752
+2025-05-01 19:39:23,602 - INFO - Embedder initialized
+2025-05-01 19:39:23,675 - INFO - VectorDB initialized
+2025-05-01 19:39:23,677 - INFO - Database initialized
+2025-05-01 19:39:23,720 - DEBUG - Retrieved 2 chunks: ['Chapter-06 Server sided scripting.pdf', 'Chapter-06 Server sided scripting.pdf']
+2025-05-01 19:39:23,720 - DEBUG - Query: what is server-side programming? explain any four pre defined variables in PHP
+2025-05-01 19:39:23,720 - DEBUG - Chunk from Chapter-06 Server sided scripting.pdf:  
+Unit -6 
+Introduction  to server -side Programming  
+ 
+The techniques of writing the programs whos... (Distance: 0.6300272941589355)
+2025-05-01 19:39:23,720 - DEBUG - Chunk from Chapter-06 Server sided scripting.pdf: They  are dynamic,  meaning  their  value  can 
+change  throughout  the execution  of the script.  V... (Distance: 0.7293617129325867)
+2025-05-01 19:39:23,720 - DEBUG - Sending prompt to Mistral: You are an expert assistant. Based on the following document excerpts, provide a detailed, accurate, and well-explained answer to the question. You must give the best possible answer from the provided contextUse only the information provided in the context, and if the context is insufficient, say so clearly. Structure your answer with clear explanations and examples where relevant.
+
+Context:
+Document: Chapter-06 Server sided scripting.pdf
+ 
+Unit -6 
+Introduction  to server -side Programming  
+ 
+...
+2025-05-01 19:39:23,721 - DEBUG - Starting new HTTP connection (1): localhost:11434
+2025-05-01 19:39:23,772 - DEBUG - Resetting dropped connection: us.i.posthog.com
+2025-05-01 19:39:24,533 - DEBUG - https://us.i.posthog.com:443 "POST /batch/ HTTP/1.1" 200 15
+2025-05-01 19:39:48,922 - DEBUG - http://localhost:11434 "POST /api/generate HTTP/1.1" 200 None
+2025-05-01 19:39:48,923 - INFO - Received answer: Server-side programming refers to the practice of writing software programs that run on a web server...
+2025-05-01 19:39:48,927 - INFO - Answered query: what is server-side programming? explain any four pre defined variables in PHP

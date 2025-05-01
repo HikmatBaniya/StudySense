@@ -1,0 +1,13 @@
+model:
+  endpoint: http://localhost:11434/api/generate
+  max_tokens: 1024
+embedding_model:
+  name: sentence-transformers/all-MiniLM-L6-v2
+vector_db:
+  type: chromadb
+  path: data/processed/vector_store
+chunking:
+  chunk_size: 768
+  chunk_overlap: 100
+database:
+  connection_string: sqlite:///data/documents.db
