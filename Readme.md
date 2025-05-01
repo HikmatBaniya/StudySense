@@ -13,16 +13,6 @@ pip install -r requirements.txt
 
 Ensure Mistral is running:
 
-Run Mistral on http://localhost:8000/v1/completions.
-Test with:curl -X POST http://localhost:8000/v1/completions -H "Content-Type: application/json" -d '{"prompt": "Test"}'
-
-
-
-
-Create directories:
-mkdir -p data/raw data/processed logs
-
-
 Run the app:
 streamlit run app.py
 
