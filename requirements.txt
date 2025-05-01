@@ -1,0 +1,9 @@
+streamlit
+transformers
+sentence-transformers
+faiss-cpu
+PyPDF2
+python-docx
+fpdf
+nltk
+PyYAML
